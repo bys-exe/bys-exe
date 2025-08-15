@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 First Year University Student at Jain University<br>🌱 I’m currently learning Full stack development!<br>💬 Ask me about anything on my discord: bys_exe
+🔭 First Year University Student at Jain University!<br>🌱 I’m currently learning Full stack development!<br>💬 Ask me about anything on my discord: bys_exe
 
 
 ## 🌐 Socials:
