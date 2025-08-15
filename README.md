@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-A HUGE Computer enthusiast who loves to tinker with operating systems and all that<br>🔭 First Year Student at Jain University!<br>🌱 I’m currently learning Full stack development!<br>💬 Ask me about anything on my discord: bys_exe
+A BIG Computer enthusiast who loves to tinker with operating systems and all that<br>🔭 First Year Student at Jain University!<br>🌱 I’m currently learning Full stack development!<br>💬 Ask me about anything on my discord: bys_exe
 
 
 ## 🌐 Socials:
