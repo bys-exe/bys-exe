@@ -15,9 +15,6 @@ A BIG Computer enthusiast who loves to tinker with operating systems and all tha
 ![](https://nirzak-streak-stats.vercel.app/?user=bys-exe&theme=discord_old_blurple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bys-exe&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bys-exe&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
 
