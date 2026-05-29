@@ -1,6 +1,10 @@
-### Hello, i'm yuga
 
-##  About Me:
-A BIG Computer enthusiast who loves to tinker with computers<br> First Year Student at Jain University!<br> Ask me about anything on my discord: bys_exe<br>Currently working on scribere
+<div align='center'> <img src=https://media1.tenor.com/m/1YQ9xsWSczAAAAAC/gto-great-teacher-onizuka.gif></div>
 
+<div align='center'> 
 
+18
+working on [scribere](https://github.com/bys-exe/scribere)
+<a href="https://x.com/bys_exe">x</a> | <a href="mailto:batchuyugasai@gmail.com">email</a> | <a href="https://discord.com/users/502799758868480000">discord<a/> | <a href="https://www.reddit.com/user/bys_exe/">reddit</a>
+
+</div>
